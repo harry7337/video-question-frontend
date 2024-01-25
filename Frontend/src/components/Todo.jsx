@@ -18,7 +18,7 @@ const Todo = (props) => {
                     </li>
                 )}
             {tasks.length > 1 && <p><button className='deleteAll' onClick={() => handleRemoveAll()}><i className="fa-solid fa-eraser"></i>Delete all</button></p>}
-            {tasks.length > 0 && <p><button className='deleteAll recommend' onClick={() => getRecommendations()}><i className="fa-solid fa-music"></i>Recommend</button></p>}
+            {tasks.length > 0 && <p><button className='deleteAll recommend' onClick={() => getRecommendations()}><i className="fa-solid fa-music"></i>Generate Questions</button></p>}
         </ul>
         </>
     );

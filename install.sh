@@ -1,10 +1,8 @@
-pip install venv
-cd ./Backend 
-python3 -m venv venv
+python -m pip install --user virtualenv
+python3 -m virtualenv venv
 source venv/bin/activate
 pip install -r requirements.txt
 deactivate
-cd ..
 
 cd ./Frontend && npm install
 cd ..

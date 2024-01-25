@@ -1,0 +1,366 @@
+,Id,Name,Topic-Code,Questions count,Topic
+0,3606,Frogs,707,67,Structural Organisation in Animals
+1,3704,Frogs: Morphology,707,51,Structural Organisation in Animals
+2,3705,Frogs: Anatomy (Digestive System),707,31,Structural Organisation in Animals
+3,3706,Frogs: Anatomy (Circulatory System),707,40,Structural Organisation in Animals
+4,3707,Frogs: Anatomy (Respiratory System),707,27,Structural Organisation in Animals
+5,3708,Frogs: Anatomy (Nervous System),707,36,Structural Organisation in Animals
+6,3709,Frogs: Anatomy (Excretory System),707,22,Structural Organisation in Animals
+7,3710,Frogs: Anatomy (Male Reproductive System),707,22,Structural Organisation in Animals
+8,3711,Frogs: Anatomy (Female Reproductive System),707,24,Structural Organisation in Animals
+9,3712,How Frogs are Beneficial for Mankind?,707,4,Structural Organisation in Animals
+10,3713,Summary - Structural Organisation in Animals,707,1,Structural Organisation in Animals
+11,541,Basis of Classification:I,706,29,Animal Kingdom
+12,542,Basis of Classification:II,706,26,Animal Kingdom
+13,543,Phylum Porifera,706,188,Animal Kingdom
+14,544,Phylum Coelenterata,706,235,Animal Kingdom
+15,545,Phylum Ctenophora & Platyhelminthes,706,334,Animal Kingdom
+16,546,Phylum Aschelminthes,706,164,Animal Kingdom
+17,547,Phylum Annelida,706,205,Animal Kingdom
+18,548,Phylum Arthropoda,706,291,Animal Kingdom
+19,549,Phylum Mollusca,706,217,Animal Kingdom
+20,550,Phylum Echinodermata,706,201,Animal Kingdom
+21,551,Phylum Hemichordata,706,87,Animal Kingdom
+22,552,Phylum Chordata,706,217,Animal Kingdom
+23,553,General Introduction: Vertebrates & Agnatha,706,82,Animal Kingdom
+24,554,Comparative study of Cartilagenous & Bony Fishes,706,195,Animal Kingdom
+25,555,Study of Amphibians,706,89,Animal Kingdom
+26,556,Study of Reptilia,706,115,Animal Kingdom
+27,557,Study of Aves & Mammals,706,277,Animal Kingdom
+28,594,Introduction to Animal & Epithelium Tissue,707,71,Structural Organisation in Animals
+29,595,Simple Epithelium,707,238,Structural Organisation in Animals
+30,596,Compound & Specialised Epithelium,707,67,Structural Organisation in Animals
+31,597,Glandular Epithelium & Cell Junction,707,149,Structural Organisation in Animals
+32,598,Connective Tissue,707,410,Structural Organisation in Animals
+33,599,Animal Tissue: Muscle Types & Skeletal Muscles,707,46,Structural Organisation in Animals
+34,600,Cardiac Muscle & Smooth Muscle,707,118,Structural Organisation in Animals
+35,601,Nervous Tissue,707,74,Structural Organisation in Animals
+36,602,Cockroach: Intro & External Morphology (OLD NCERT),707,98,Structural Organisation in Animals
+37,603,Cockroach: Head & Mouth Parts (OLD NCERT),707,57,Structural Organisation in Animals
+38,604,Cockroach: Structure of Thorax (OLD NCERT),707,52,Structural Organisation in Animals
+39,605,Cockroach: Abdomen (OLD NCERT),707,14,Structural Organisation in Animals
+40,606,Cockroach: Digestive System (OLD NCERT),707,86,Structural Organisation in Animals
+41,607,Cockroach: Respiratory System (OLD NCERT),707,56,Structural Organisation in Animals
+42,608,Cockroach: Circulatory System (OLD NCERT),707,43,Structural Organisation in Animals
+43,609,Cockroach: Solved Examples (OLD NCERT),707,3,Structural Organisation in Animals
+44,610,Cockroach: Excretory System (OLD NCERT),707,60,Structural Organisation in Animals
+45,611,Cockroach: Nervous System (OLD NCERT),707,42,Structural Organisation in Animals
+46,612,Cockroach: Compound Eye (OLD NCERT),707,70,Structural Organisation in Animals
+47,613,Cockroach:Male Reproductive System (OLD NCERT),707,74,Structural Organisation in Animals
+48,614,Cockroach: Female Reproductive System (OLD NCERT),707,109,Structural Organisation in Animals
+49,640,Element Analysis,628,76,Biomolecules
+50,641,Nucleic Acid,628,82,Biomolecules
+51,642,Nucleic Acid: Nucleotides,628,92,Biomolecules
+52,643,The DNA,628,89,Biomolecules
+53,644,Amino Acids,628,138,Biomolecules
+54,645,Proteins,628,176,Biomolecules
+55,646,Carbohydrates,628,114,Biomolecules
+56,647,Lipids,628,143,Biomolecules
+57,648,Enzymes,628,89,Biomolecules
+58,649,Enzymes Classification,628,83,Biomolecules
+59,650,Enzyme Catalysis,628,85,Biomolecules
+60,651,Factors Affecting Enzyme Catalysis Reaction,628,92,Biomolecules
+61,723,Introduction to Digestive System,708,65,Digestion and Absorption (OLD NCERT)
+62,724,Alimentary Canal: Oral Cavity & Teeth,708,114,Digestion and Absorption (OLD NCERT)
+63,725,Swallowing: Histology of Gut,708,32,Digestion and Absorption (OLD NCERT)
+64,726,Histology of Gut,708,122,Digestion and Absorption (OLD NCERT)
+65,727,Peristalsis: Gland in Alimentary Canal,708,64,Digestion and Absorption (OLD NCERT)
+66,728,Accessory Digestive Glands,708,130,Digestion and Absorption (OLD NCERT)
+67,729,Movement of Food in Gut,708,74,Digestion and Absorption (OLD NCERT)
+68,730,Digestive Secretions: Saliva,708,46,Digestion and Absorption (OLD NCERT)
+69,731,Gastric Secretions,708,193,Digestion and Absorption (OLD NCERT)
+70,732,Bile,708,75,Digestion and Absorption (OLD NCERT)
+71,733,Pancreatic Secretions,708,127,Digestion and Absorption (OLD NCERT)
+72,734,Intestinal Secretions,708,144,Digestion and Absorption (OLD NCERT)
+73,735,Absorption: General Adaptations,708,42,Digestion and Absorption (OLD NCERT)
+74,736,Absorption: Part 1,708,52,Digestion and Absorption (OLD NCERT)
+75,737,Absorption: Part 2,708,37,Digestion and Absorption (OLD NCERT)
+76,738,Protein Energy Malnutrition,708,81,Digestion and Absorption (OLD NCERT)
+77,739,Respiratory System: Upper Respiratory Tract,709,48,Breathing and Exchange of Gases
+78,740,Respiratory System: Trachea & Basic Anatomy of Lung,709,199,Breathing and Exchange of Gases
+79,741,Respiratory System: Pulmonary Ventilation,709,132,Breathing and Exchange of Gases
+80,742,Respiratory System: Pulmonary Volumes & Capacities,709,191,Breathing and Exchange of Gases
+81,743,Respiratory System: Exchange of Gases,709,292,Breathing and Exchange of Gases
+82,744,Respiratory System: Transport of Gases Part 1,709,165,Breathing and Exchange of Gases
+83,745,Respiratory System: Transport of Gases Part 2,709,131,Breathing and Exchange of Gases
+84,746,Respiratory System: Regulation of Respiration,709,156,Breathing and Exchange of Gases
+85,747,Respiratory Disorders: Part 1,709,113,Breathing and Exchange of Gases
+86,748,Respiratory Disorders: Part 2,709,77,Breathing and Exchange of Gases
+87,749,Respiratory  Disorders - III,709,46,Breathing and Exchange of Gases
+88,750,Blood: General Description & RBC: Part 1,710,96,Body Fluids and Circulation
+89,751,Blood: General Description & RBC: Part 2,710,73,Body Fluids and Circulation
+90,752,Blood: White Blood Cells,710,125,Body Fluids and Circulation
+91,753,"Blood: Blood Group (A,B,O)",710,123,Body Fluids and Circulation
+92,754,Blood: Blood Group,710,80,Body Fluids and Circulation
+93,755,Blood: Blood Clotting,710,136,Body Fluids and Circulation
+94,756,Human Heart: Gross Anatomy,710,193,Body Fluids and Circulation
+95,757,Human Heart: Double Circulation,710,225,Body Fluids and Circulation
+96,758,Human Heart: Cardiac Cycle,710,336,Body Fluids and Circulation
+97,759,Rhythmic Excitation of Human Heart: Part 1,710,60,Body Fluids and Circulation
+98,760,Rhythmic Excitation of Human Heart: Part 2,710,37,Body Fluids and Circulation
+99,761,ECG & Coronary Artery Disease,710,215,Body Fluids and Circulation
+100,762,"Atherosclerosis, Hypertension & Ventricular Fibrillation",710,82,Body Fluids and Circulation
+101,763,Lymph,710,56,Body Fluids and Circulation
+102,764,Regulation of  Cardiac Activity,710,94,Body Fluids and Circulation
+103,765,Nitrogenous Excretory Products,711,266,Excretory Products and their Elimination
+104,766,Osmoregulation,711,81,Excretory Products and their Elimination
+105,767,Human Kidney: Functions,711,74,Excretory Products and their Elimination
+106,768,Human Kidney: Location & Cut Section,711,121,Excretory Products and their Elimination
+107,769,Nephron Part 1,711,180,Excretory Products and their Elimination
+108,770,Nephron Part 2,711,141,Excretory Products and their Elimination
+109,771,Formation of Urine: Ultrafiltration 1,711,78,Excretory Products and their Elimination
+110,772,Formation of Urine: Ultrafiltration 2,711,64,Excretory Products and their Elimination
+111,773,Formation of Urine,711,258,Excretory Products and their Elimination
+112,774,Concentration of Urine: I,711,52,Excretory Products and their Elimination
+113,775,Concentration of Urine: II,711,68,Excretory Products and their Elimination
+114,776,Autoregulation of GFR,711,282,Excretory Products and their Elimination
+115,777,Micturition Reflex,711,91,Excretory Products and their Elimination
+116,778,CRF & Hemodialysis,711,35,Excretory Products and their Elimination
+117,779,Introduction to Locomotion,712,108,Locomotion and Movement
+118,780,Skeletal Muscle: Basic Anatomy,712,172,Locomotion and Movement
+119,781,Skeletal Muscle: Myofilaments,712,178,Locomotion and Movement
+120,782,Skeletal Muscle: Sarcomere,712,147,Locomotion and Movement
+121,783,Excitation Contraction Coupling I,712,91,Locomotion and Movement
+122,784,Excitation Contraction Coupling II,712,53,Locomotion and Movement
+123,785,Sliding Filament Theory,712,149,Locomotion and Movement
+124,786,Energy for Muscle Contraction,712,82,Locomotion and Movement
+125,787,Muscle Contraction: Other Considerations,712,105,Locomotion and Movement
+126,788,"Human Skeleton: Introduction, Function, Parts",712,26,Locomotion and Movement
+127,789,Number of Bone in Axial Skeleton,712,45,Locomotion and Movement
+128,790,Number of Bone in Appendicular Skeleton,712,30,Locomotion and Movement
+129,791,Axial Skeleton: I,712,86,Locomotion and Movement
+130,792,Axial Skeleton: II,712,33,Locomotion and Movement
+131,793,Vertebral column,712,57,Locomotion and Movement
+132,794,Sternum & Ribs,712,99,Locomotion and Movement
+133,795,Appendicular Skeleton: Upper Limb,712,42,Locomotion and Movement
+134,796,Appendicular Skeleton,712,99,Locomotion and Movement
+135,797,Appendicular Skeleton: Girdle,712,109,Locomotion and Movement
+136,798,Fibrous & Catilaginous Joints,712,82,Locomotion and Movement
+137,799,Synovial Joint,712,156,Locomotion and Movement
+138,800,Nervous System,713,273,Neural Control and Coordination
+139,801,Origin of Resting Membrane Potential,713,153,Neural Control and Coordination
+140,802,Action Potential,713,203,Neural Control and Coordination
+141,803,Synapse,713,182,Neural Control and Coordination
+142,804,Neuroanatomy,713,109,Neural Control and Coordination
+143,805,Motor Functions of Spinal Cord,713,74,Neural Control and Coordination
+144,806,Hind & Mid Brain,713,156,Neural Control and Coordination
+145,807,Diencephalon,713,178,Neural Control and Coordination
+146,808,"Cerebrum, EEG & Sleep",713,101,Neural Control and Coordination
+147,809,"Meninges, Ventricles & CSF",713,44,Neural Control and Coordination
+148,810,Autonomic Nervous System: 1 (OLD NCERT),713,40,Neural Control and Coordination
+149,811,Autonomic Nervous System: 2 (OLD NCERT),713,63,Neural Control and Coordination
+150,812,Basic Anatomy of Human Eye: 1 (OLD NCERT),713,92,Neural Control and Coordination
+151,813,Basic Anatomy of Human Eye: 2 (OLD NCERT),713,48,Neural Control and Coordination
+152,814,Human Eye  (OLD NCERT),713,96,Neural Control and Coordination
+153,815,Huma Eye: Accommodation (OLD NCERT),713,58,Neural Control and Coordination
+154,816,Human Eye: Adaptation (OLD NCERT),713,67,Neural Control and Coordination
+155,817,Extra Ocular Muscles & Optic Nerve (OLD NCERT),713,16,Neural Control and Coordination
+156,818,Outer & Middle Ear (OLD NCERT),713,96,Neural Control and Coordination
+157,819,Inner Ear: Vestibular Apparatus (OLD NCERT),713,87,Neural Control and Coordination
+158,820,Inner Ear: Cochlea (OLD NCERT),713,170,Neural Control and Coordination
+159,821,Smell & Taste (OLD NCERT),713,45,Neural Control and Coordination
+160,822,Intro to Hormones & Endocrine Glands: I,714,33,Chemical Coordination and Integration
+161,823,Intro to Hormones & Endocrine Glands: II,714,17,Chemical Coordination and Integration
+162,824,Hormones: General Consideration,714,43,Chemical Coordination and Integration
+163,825,Pituitary & Hypothalamus,714,87,Chemical Coordination and Integration
+164,826,Adenohypophysis & Hypothalamus,714,193,Chemical Coordination and Integration
+165,827,Human Growth Hormone,714,42,Chemical Coordination and Integration
+166,828,Prolactin & Posterior Pituitary,714,123,Chemical Coordination and Integration
+167,829,Thyroid Gland Part I,714,212,Chemical Coordination and Integration
+168,830,Thyroid Gland Part II,714,153,Chemical Coordination and Integration
+169,831,Parathyroid,714,108,Chemical Coordination and Integration
+170,832,Adrenal Medulla,714,144,Chemical Coordination and Integration
+171,833,Adrenal Cortex: Cortisol,714,110,Chemical Coordination and Integration
+172,834,Pineal Gland,714,74,Chemical Coordination and Integration
+173,835,Thymus,714,52,Chemical Coordination and Integration
+174,836,Misc. Hormones,714,95,Chemical Coordination and Integration
+175,837,Gastrointestinal Hormones,714,35,Chemical Coordination and Integration
+176,838,Gonadotropin & Gonadal Hormones,714,100,Chemical Coordination and Integration
+177,839,Pancreas: I,714,101,Chemical Coordination and Integration
+178,840,Pancreas: II,714,37,Chemical Coordination and Integration
+179,841,Mechanism of Hormone Action,714,184,Chemical Coordination and Integration
+180,862,Introduction,716,24,Human Reproduction
+181,863,Sex Determination in Humans,716,8,Human Reproduction
+182,864,Male Reproductive System,716,174,Human Reproduction
+183,865,Basic Anatomy of Testis,716,56,Human Reproduction
+184,866,Seminiferous Tubules & Spermatogenesis,716,224,Human Reproduction
+185,867,Spermiogenesis/Sperm Structure/Hormonal Regulation,716,221,Human Reproduction
+186,868,Male Reproductive Duct System,716,119,Human Reproduction
+187,869,Semen and Male Fertility,716,68,Human Reproduction
+188,870,Ovary,716,123,Human Reproduction
+189,871,Introduction to Menstrual Cycle: 1,716,83,Human Reproduction
+190,872,Introduction to Menstrual Cycle: 2,716,105,Human Reproduction
+191,873,Menstrual Cycle: Pre Ovulatory Phase,716,162,Human Reproduction
+192,874,Menstrual Cycle: Luteal Phase,716,249,Human Reproduction
+193,875,Fertilization: Part 1,716,81,Human Reproduction
+194,876,Fertilization: Part 2,716,81,Human Reproduction
+195,877,Implantation :  Part 1,716,57,Human Reproduction
+196,878,Implantation :  Part 2,716,66,Human Reproduction
+197,879,Embryonic Development till Gastrulation,716,191,Human Reproduction
+198,880,Fetal Development & Parturition,716,295,Human Reproduction
+199,881,Introduction,717,201,Reproductive Health
+200,882,Contraception: Natural Methods,717,140,Reproductive Health
+201,883,Contraception: Barrier Methods & IUDs,717,274,Reproductive Health
+202,884,"Hormonal Contraceptives, Emergency Contraception & Terminal Methods",717,302,Reproductive Health
+203,885,Medical Termination of Pregnancy,717,116,Reproductive Health
+204,886,Sexually Transmitted Infections,717,174,Reproductive Health
+205,887,Infertility: 1,717,41,Reproductive Health
+206,888,Infertility: 2,717,31,Reproductive Health
+207,889,Infertility: 3,717,59,Reproductive Health
+208,927,Introduction,719,174,Human Health and Disease
+209,928,Typhoid Fever,719,83,Human Health and Disease
+210,929,Pneumonia & Related Questions,719,90,Human Health and Disease
+211,930,Common Cold & Malaria Introduction,719,143,Human Health and Disease
+212,931,Treatment & Life Cycle of Malaria,719,137,Human Health and Disease
+213,932,Amoebiasis,719,64,Human Health and Disease
+214,933,Ascariasis & Filariasis,719,122,Human Health and Disease
+215,934,Fungal Infection & Concept of Immunity,719,112,Human Health and Disease
+216,935,Details of Immunity,719,330,Human Health and Disease
+217,936,Active & Passive Immunity,719,198,Human Health and Disease
+218,937,Allergies & Autoimmunity,719,128,Human Health and Disease
+219,938,Human Immune System,719,237,Human Health and Disease
+220,939,AIDS,719,222,Human Health and Disease
+221,940,Cancer,719,213,Human Health and Disease
+222,941,Drugs & Alcohol Abuse,719,403,Human Health and Disease
+223,957,Introduction & History: I,639,26,Biotechnology: Principles and Processes
+224,958,Introduction & History: II,639,39,Biotechnology: Principles and Processes
+225,959,Tools: Enzymes: I,639,56,Biotechnology: Principles and Processes
+226,960,Tools: Enzymes: II,639,103,Biotechnology: Principles and Processes
+227,961,Tools: Vectors: I,639,85,Biotechnology: Principles and Processes
+228,962,Tools: Vectors: II,639,110,Biotechnology: Principles and Processes
+229,963,Selectable Markers: I,639,23,Biotechnology: Principles and Processes
+230,964,Selectable Markers: II,639,16,Biotechnology: Principles and Processes
+231,965,Selectable Markers: III,639,26,Biotechnology: Principles and Processes
+232,966,Host & Desired DNA: I,639,42,Biotechnology: Principles and Processes
+233,967,Host & Desired DNA: II,639,53,Biotechnology: Principles and Processes
+234,968,Process of Biotech,639,105,Biotechnology: Principles and Processes
+235,969,Large Scale Production: I,639,43,Biotechnology: Principles and Processes
+236,970,Large Scale Production: II,639,64,Biotechnology: Principles and Processes
+237,971,Large Scale Production: III,639,6,Biotechnology: Principles and Processes
+238,972,Intro to Agri Applications,640,109,Biotechnology and its Applications
+239,973,Bt Crops,640,217,Biotechnology and its Applications
+240,974,Interference RNA Tech,640,163,Biotechnology and its Applications
+241,975,Other GM Crops,640,113,Biotechnology and its Applications
+242,976,Med Applications & Humulin,640,173,Biotechnology and its Applications
+243,977,Gene Therapy,640,170,Biotechnology and its Applications
+244,978,Vaccines,640,15,Biotechnology and its Applications
+245,979,Molecular Diagnosis,640,125,Biotechnology and its Applications
+246,980,Transgenic Microbes & Animals,640,196,Biotechnology and its Applications
+247,981,Animal Cloning,640,8,Biotechnology and its Applications
+248,982,Ethical Issues,640,99,Biotechnology and its Applications
+249,983,Biowar,640,6,Biotechnology and its Applications
+250,1059,Adrenal Cortex: Aldosterone,714,108,Chemical Coordination and Integration
+251,1086,Definition & Types of Evolution,718,87,Evolution
+252,1087,Cosmic Evolution,718,37,Evolution
+253,1088,Origin of Life: Chemical Evolution: 1,718,45,Evolution
+254,1089,Origin of Life: Chemical Evolution: 2,718,22,Evolution
+255,1090,Examples of Chemical Evolution,718,50,Evolution
+256,1091,Urey & Miller Experiment,718,73,Evolution
+257,1092,Other Theories of Origin of Life,718,86,Evolution
+258,1093,Concept of Organic Evolution: Evidence: 1,718,56,Evolution
+259,1094,Concept of Organic Evolution: Evidence: 2,718,116,Evolution
+260,1095,Concept of Organic Evolution: Evidence: 3,718,16,Evolution
+261,1096,Embryological Evidence of Evolution,718,53,Evolution
+262,1097,Palentological Evidences of Evolution,718,161,Evolution
+263,1098,Theory of Evolution & Lamarckism,718,59,Evolution
+264,1099,Germ Plasm Theory,718,4,Evolution
+265,1100,Darwin's Theory,718,177,Evolution
+266,1101,Summary of Darwin's Theory,718,28,Evolution
+267,1102,Additional Theories of Darwin,718,28,Evolution
+268,1103,Drawbacks of Darwin's Theory,718,6,Evolution
+269,1104,Hugo De Vries Theory of Evolution,718,55,Evolution
+270,1105,Modern Theory of Evolution,718,35,Evolution
+271,1106,Sources of Variation: 1,718,24,Evolution
+272,1107,Sources of Variation: 2,718,39,Evolution
+273,1108,Types of Natural Selection,718,162,Evolution
+274,1109,Difference Between Drift & Selection,718,24,Evolution
+275,1110,Population Genetics,718,22,Evolution
+276,1111,Hardy Weinberg Law: 1,718,112,Evolution
+277,1112,Hardy Weinberg Law: 2,718,54,Evolution
+278,1113,Concept of Isolation,718,27,Evolution
+279,1114,Concept of Speciation,718,75,Evolution
+280,1115,Genetic Basis of Adaptation,718,34,Evolution
+281,1116,Introduction to Human Evolution,718,52,Evolution
+282,1117,Classification of Primates,718,17,Evolution
+283,1118,Evolution Prior to Ape Man: 1,718,62,Evolution
+284,1119,Evolution Prior to Ape Man: 2,718,31,Evolution
+285,1120,Evolution of Homo Sapiens,718,110,Evolution
+286,1295,Mammary Gland & Lactation,716,70,Human Reproduction
+287,1328,Female Reproductive System-1,716,140,Human Reproduction
+288,1329,Female Reproductive System-2,716,110,Human Reproduction
+289,1330,Female External Genitalia,716,52,Human Reproduction
+290,1394,Enzyme Cofactors,628,130,Biomolecules
+291,1395,Enzyme Inhibition: Introduction,628,27,Biomolecules
+292,1396,Enzyme Inhibition,628,108,Biomolecules
+293,1397,Properties of Enzymes,628,44,Biomolecules
+294,1398,Mechanism of Enzymes,628,54,Biomolecules
+295,1399,Enzyme Introduction,628,40,Biomolecules
+296,1400,Introduction,628,128,Biomolecules
+297,1401,Double Helix : Watson & Crick Part 1,628,58,Biomolecules
+298,1402,Double Helix : Watson & Crick Part 2,628,22,Biomolecules
+299,1427,Lipids: Fatty Acids,628,31,Biomolecules
+300,1428,"Lipids: Glycerolipids, Phospholipids & Glycerol",628,32,Biomolecules
+301,1429,Different Amino Acids,628,114,Biomolecules
+302,1430,Primary & Secondary Metabolites,628,103,Biomolecules
+303,1431,Introduction to Proteins,628,39,Biomolecules
+304,1432,Zwitter ion & Peptide Bond,628,34,Biomolecules
+305,1433,Structural Organisation of Proteins,628,74,Biomolecules
+306,1434,Carbohydrates: Introduction,628,37,Biomolecules
+307,1435,Carbohydrates: Glycosidic Bond & Disaccharide,628,46,Biomolecules
+308,1436,Carbohydrates: Starch & Glycogen,628,72,Biomolecules
+309,1437,"Carbohydrates: Cellulose, Chitin, Inulin & Agar",628,100,Biomolecules
+310,1757,Polymerase Chain Reaction: PCR,639,153,Biotechnology: Principles and Processes
+311,1758,Bioreactors/Downstream Processing,639,60,Biotechnology: Principles and Processes
+312,1759,Restriction Enzymes - Main Enzymes,639,236,Biotechnology: Principles and Processes
+313,1790,Separation and Isolation of DNA fragments,639,143,Biotechnology: Principles and Processes
+314,1823,Disorders of Digestive System,708,83,Digestion and Absorption (OLD NCERT)
+315,1824,"Hormones of Heart, Kidney and Gastrointestinal Tract",714,51,Chemical Coordination and Integration
+316,1856,Disorders of Muscular and Skeletal System,712,147,Locomotion and Movement
+317,1889,Transforming Plant & Animal Cell,639,114,Biotechnology: Principles and Processes
+318,1890,Cloning Vector,639,190,Biotechnology: Principles and Processes
+319,1922,Selection of Recombinant Transformants,639,48,Biotechnology: Principles and Processes
+320,1923,Obtaining Copy of Gene from Donor DNA ,639,16,Biotechnology: Principles and Processes
+321,1988,Restriction Enzymes: Historical Background,639,41,Biotechnology: Principles and Processes
+322,2021,Role of other Organs in Excretion,711,46,Excretory Products and their Elimination
+323,2054,Disorders of Excretory System,711,87,Excretory Products and their Elimination
+324,2120,Absorption,708,160,Digestion and Absorption (OLD NCERT)
+325,2122,Autonomic Nervous System (OLD NCERT),713,93,Neural Control and Coordination
+326,2124,Axial Skeleton,712,86,Locomotion and Movement
+327,2126,Basic Anatomy of Human Eye (OLD NCERT),713,167,Neural Control and Coordination
+328,2128,Basis of Classification,706,168,Animal Kingdom
+329,2131,Blood: General Description & RBC,710,302,Body Fluids and Circulation
+330,2139,Concentration of Urine,711,132,Excretory Products and their Elimination
+331,2141,Concept of Organic Evolution: Evidence,718,303,Evolution
+332,2147,Double Helix : Watson & Crick,628,75,Biomolecules
+333,2151,Evolution Prior to Ape Man,718,68,Evolution
+334,2155,Fertilization,716,146,Human Reproduction
+335,2158,Formation of Urine: Ultrafiltration,711,120,Excretory Products and their Elimination
+336,2165,Hardy Weinberg Law,718,152,Evolution
+337,2167,Host & Desired DNA,639,86,Biotechnology: Principles and Processes
+338,2169,Implantation ,716,106,Human Reproduction
+339,2171,Infertility,717,197,Reproductive Health
+340,2174,Introduction to Menstrual Cycle,716,130,Human Reproduction
+341,2175,Introduction & History,639,53,Biotechnology: Principles and Processes
+342,2177,Intro to Hormones & Endocrine Glands,714,56,Chemical Coordination and Integration
+343,2179,Large Scale Production,639,129,Biotechnology: Principles and Processes
+344,2188,Origin of Life,718,100,Evolution
+345,2190,Pancreas,714,128,Chemical Coordination and Integration
+346,2196,Respiratory System: Transport of Gases,709,300,Breathing and Exchange of Gases
+347,2200,Selectable Markers,639,59,Biotechnology: Principles and Processes
+348,2203,Sources of Variation,718,65,Evolution
+349,2208,Tools,639,286,Biotechnology: Principles and Processes
+350,2351,Super Class Pisces & its General Characteristics ,706,36,Animal Kingdom
+351,2549,Biochemical Evidences  ,718,15,Evolution
+352,2648,General Design of an rDNA experiment,639,74,Biotechnology: Principles and Processes
+353,3044, DYNAMIC STATE OF BODY CONSTITUENTS – CONCEPT OF METABOLISM (OLD NCERT),628,8,Biomolecules
+354,3045,METABOLIC BASIS FOR LIVING (OLD NCERT),628,26,Biomolecules
+355,3046,THE LIVING STATE (OLD NCERT),628,15,Biomolecules
+356,3077, DIGESTION OF FOOD,708,144,Digestion and Absorption (OLD NCERT)
+357,3176,oogenesis,716,99,Human Reproduction
+358,3308, A BRIEF ACCOUNT OF EVOLUTION,718,161,Evolution
+359,3341, DISORDERS OF CIRCULATORY SYSTEM,710,37,Body Fluids and Circulation
+360,3374,Calorific value,708,13,Digestion and Absorption (OLD NCERT)
+361,3407,Respiratory Organs,709,56,Breathing and Exchange of Gases
+362,3605,Earthworm,707,21,Structural Organisation in Animals
+363,3714,Circulatory Pathways,710,32,Body Fluids and Circulation
+364,3869,Fore Brain,713,44,Neural Control and Coordination

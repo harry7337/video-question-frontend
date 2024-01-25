@@ -13,10 +13,9 @@ export default function App() {
   return (
     <><Navbar className="bg-dark" variant="dark">
     <Container>
-    <Navbar.Brand href="/">Tuney<i className="fa-solid fa-music"></i></Navbar.Brand>
+    <Navbar.Brand href="/">NEETPrep Question Generator<i className="fa-solid fa-music"></i></Navbar.Brand>
     <Nav className="me-auto">
-      <Nav.Link href="/">YourSongs</Nav.Link>
-      <Nav.Link href="/recommendations">Recommendations</Nav.Link>
+      <Nav.Link href="/">Home</Nav.Link>
     </Nav>
     </Container>
   </Navbar>

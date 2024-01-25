@@ -1,0 +1,409 @@
+,Id,Name,Topic-Code,Questions count,Topic
+0,490,Introduction & Growth as Criterion for Being Living (OLD NCERT),622,111,The Living World
+1,491,Reproduction as Criterion for Being Living (OLD NCERT),622,92,The Living World
+2,492,Metabolism and Consciousness as Criterion for Being Living (OLD NCERT),622,120,The Living World
+3,493,Taxonomy 1: Nomenclature,622,230,The Living World
+4,494,Taxonomy 2: Classification up to Genus,622,173,The Living World
+5,495,Taxonomy 3: From Family to Classification of Some Organisms,622,174,The Living World
+6,496,Taxonomical Aids: Part 1 (OLD NCERT),622,73,The Living World
+7,497,Taxonomical Aids: Part 2 (OLD NCERT),622,74,The Living World
+8,498,Systematics & Type study,622,54,The Living World
+9,499,Different Classification Systems,623,194,Biological Classification
+10,500,Kingdom Monera: Introduction,623,91,Biological Classification
+11,501,Kingdom Monera: Bacterial Cell Structure,623,35,Biological Classification
+12,502,Kingdom Monera: Surface Appendages,623,14,Biological Classification
+13,503,Kingdom Monera: Bacterial Reproduction,623,30,Biological Classification
+14,504,Kingdom Monera: Bacterial Recombination,623,14,Biological Classification
+15,505,Kingdom Monera: Bacterial Life Process,623,78,Biological Classification
+16,506,Kingdom Monera: Bacterial Classification,623,260,Biological Classification
+17,507,Kingdom Monera: Actinomycetes & Mycoplasma,623,55,Biological Classification
+18,508,Kingdom Monera: Blue Green Algae,623,42,Biological Classification
+19,509,Kingdom Protista: Introduction,623,63,Biological Classification
+20,510,Kingdom Protista: Chrysophytes,623,95,Biological Classification
+21,511,Kingdom Protista: Dinoflagellates,623,81,Biological Classification
+22,512,Kingdom Protista: Euglenoids,623,71,Biological Classification
+23,513,Kingdom Protista: Slime Moulds,623,91,Biological Classification
+24,514,Kingdom Fungi: Introduction,623,191,Biological Classification
+25,515,Kingdom Fungi: Sexual Reproduction in Fungi,623,52,Biological Classification
+26,516,Kingdom Fungi: Deuteromycetes,623,77,Biological Classification
+27,517,Kingdom Fungi: Zygomycetes,623,68,Biological Classification
+28,518,Kingdom Fungi: Ascomycetes,623,158,Biological Classification
+29,519,Kingdom Fungi: Basidomycetes,623,160,Biological Classification
+30,520,Mycorrhiza,623,18,Biological Classification
+31,521,"Virus, Viroids & Prions",623,281,Biological Classification
+32,522,Classification System: I,624,72,Plant Kingdom
+33,523,Classification System: II,624,42,Plant Kingdom
+34,524,Algae,624,283,Plant Kingdom
+35,525,Chlorophyceae: Green Algae: I,624,57,Plant Kingdom
+36,526,Chlorophyceae: Green Algae: II,624,25,Plant Kingdom
+37,527,Chlorophyceae: Green Algae: III,624,16,Plant Kingdom
+38,528,Pheophyceae: Brown Algae,624,113,Plant Kingdom
+39,529,Rhodophyceae: Red Algae and Importance of Algae,624,107,Plant Kingdom
+40,530,Bryophytes,624,301,Plant Kingdom
+41,531,Bryophytes (Liverworts),624,73,Plant Kingdom
+42,532,Bryophytes (Anthoceropsida),624,50,Plant Kingdom
+43,533,Pteridophytes: Heterospory,624,88,Plant Kingdom
+44,534,Classification of Pteridophytes: I,624,14,Plant Kingdom
+45,535,Classification of Pteridophytes: II,624,12,Plant Kingdom
+46,536,Gymnosperms: I,624,115,Plant Kingdom
+47,537,General Accounts of Gymnosperms: II,624,112,Plant Kingdom
+48,538,Examples of Gymnosperms,624,81,Plant Kingdom
+49,539,General Account of Angiosperms (OLD NCERT),624,104,Plant Kingdom
+50,540,Life Cycle Patterns in Plants (OLD NCERT),624,116,Plant Kingdom
+51,558,Morphology of Roots,625,143,Morphology of Flowering Plants
+52,559,Modification of Roots,625,140,Morphology of Flowering Plants
+53,560,Morphology of Stems,625,101,Morphology of Flowering Plants
+54,561,Aerial Stem Modification,625,98,Morphology of Flowering Plants
+55,562,Morphology of Leaf,625,77,Morphology of Flowering Plants
+56,563,"Venation, Types of Leaves & Phyllotaxy",625,87,Morphology of Flowering Plants
+57,564,Modification of Leaf,625,79,Morphology of Flowering Plants
+58,565,Inflorescence,625,114,Morphology of Flowering Plants
+59,566,Flower & Parts of Flower: I,625,179,Morphology of Flowering Plants
+60,567,Parts of Flower: II,625,75,Morphology of Flowering Plants
+61,568,Parts of Flower: III,625,113,Morphology of Flowering Plants
+62,569,Fruits & their Types,625,170,Morphology of Flowering Plants
+63,570,Seed,625,181,Morphology of Flowering Plants
+64,571,Semi Technical Description,625,96,Morphology of Flowering Plants
+65,572,Families of Flowering Plant: I,625,106,Morphology of Flowering Plants
+66,573,Families of Flowering Plant: II,625,111,Morphology of Flowering Plants
+67,574,Tissue: Introduction & Classification (OLD NCERT),626,35,Anatomy of Flowering Plants
+68,575,Meristematic Tissue:Classification (OLD NCERT),626,123,Anatomy of Flowering Plants
+69,576,Meristematic Tissue: Shoot Apex (OLD NCERT),626,30,Anatomy of Flowering Plants
+70,577,Meristematic Tissue: Root Apex (OLD NCERT),626,16,Anatomy of Flowering Plants
+71,578,Simple Tissue: Parenchyma,626,40,Anatomy of Flowering Plants
+72,579,Simple Tissue: Chollenchyma & Sclerenchyma,626,89,Anatomy of Flowering Plants
+73,580,Complex Tissue: Xylem,626,144,Anatomy of Flowering Plants
+74,581,Complex Tissue: Phloem,626,173,Anatomy of Flowering Plants
+75,582,Epidermal Tissue System,626,117,Anatomy of Flowering Plants
+76,583,Vascular Tissue System,626,109,Anatomy of Flowering Plants
+77,584,Ground Tissue System,626,39,Anatomy of Flowering Plants
+78,585,Anatomy of Root,626,198,Anatomy of Flowering Plants
+79,586,Dicot Stem,626,126,Anatomy of Flowering Plants
+80,587,Monocot Stem,626,87,Anatomy of Flowering Plants
+81,588,Dicot Leaf,626,77,Anatomy of Flowering Plants
+82,589,Monocot Leaf,626,84,Anatomy of Flowering Plants
+83,590,Activity of Vascular Cambium (OLD NCERT),626,107,Anatomy of Flowering Plants
+84,591,Activity of Secondary Xylem (OLD NCERT),626,37,Anatomy of Flowering Plants
+85,592,Activity of Cork Cambium,626,189,Anatomy of Flowering Plants
+86,593,Secondary Growth in Root (OLD NCERT),626,42,Anatomy of Flowering Plants
+87,615,Introduction to Botany,627,4,Cell - The Unit of Life
+88,616,Introduction to Cell,627,67,Cell - The Unit of Life
+89,617,Cell Theory,627,58,Cell - The Unit of Life
+90,618,Cell Organisation,627,64,Cell - The Unit of Life
+91,619,Prokaryotic Cell Organisation,627,146,Cell - The Unit of Life
+92,620,Details of Prokaryotic Cell Structure,627,170,Cell - The Unit of Life
+93,621,Bacterial Staining & Shape,627,25,Cell - The Unit of Life
+94,622,Eukaryotic Cell Architecture: Types,627,19,Cell - The Unit of Life
+95,623,Eukaryotic Cell Orgenelle,627,80,Cell - The Unit of Life
+96,624,Cell Wall,627,114,Cell - The Unit of Life
+97,625,Cell Membrane,627,173,Cell - The Unit of Life
+98,626,Evidence for Fluidic Nature of  Membrane,627,62,Cell - The Unit of Life
+99,627,Plastids,627,192,Cell - The Unit of Life
+100,628,Mitochondria,627,174,Cell - The Unit of Life
+101,629,Intro to Endomembrane System: Endoplasmic Reticulum,627,51,Cell - The Unit of Life
+102,630,Endomembrane System,627,95,Cell - The Unit of Life
+103,631,Golgi Apparatus,627,137,Cell - The Unit of Life
+104,632,Lysosomes,627,83,Cell - The Unit of Life
+105,633,Nucleus,627,111,Cell - The Unit of Life
+106,634,Nucleus: Chromosomes,627,156,Cell - The Unit of Life
+107,635,Vacuole,627,78,Cell - The Unit of Life
+108,636,Cytoskeleton,627,70,Cell - The Unit of Life
+109,637,Centrosomes,627,67,Cell - The Unit of Life
+110,638,Cilia & Flagella,627,110,Cell - The Unit of Life
+111,639,Microbodies,627,32,Cell - The Unit of Life
+112,652,Intro to Cell Cycle & Interphase,629,449,Cell Cycle and Cell Division
+113,653,Cell Division: Mitosis (Karyokinesis),629,471,Cell Cycle and Cell Division
+114,654,Cell Division: Mitosis (Cytokinesis),629,113,Cell Cycle and Cell Division
+115,655,Cell Cycle: Meiosis I,629,603,Cell Cycle and Cell Division
+116,656,Cell Cycle: Meiosis II,629,190,Cell Cycle and Cell Division
+117,657,Introduction,630,13,Transport in Plants (OLD NCERT)
+118,658,Diffusion,630,55,Transport in Plants (OLD NCERT)
+119,659,Membrane Transport,630,15,Transport in Plants (OLD NCERT)
+120,660,Osmosis,630,76,Transport in Plants (OLD NCERT)
+121,661,Plasmolysis,630,71,Transport in Plants (OLD NCERT)
+122,662,Water Potential Concept,630,122,Transport in Plants (OLD NCERT)
+123,663,Water Absorption,630,119,Transport in Plants (OLD NCERT)
+124,664,Radial Transport,630,7,Transport in Plants (OLD NCERT)
+125,665,Ascent of Sap,630,47,Transport in Plants (OLD NCERT)
+126,666,Transpiration & Guttation,630,190,Transport in Plants (OLD NCERT)
+127,667,Phloem Translocation: Short Distance Transport,630,24,Transport in Plants (OLD NCERT)
+128,668,Phloem Translocation,630,136,Transport in Plants (OLD NCERT)
+129,669,Solved Questions,630,1,Transport in Plants (OLD NCERT)
+130,670,Imbibition,630,48,Transport in Plants (OLD NCERT)
+131,671,Introduction,631,27,Mineral Nutrition (OLD NCERT)
+132,672,Criteria for Essentiality of Elements,631,82,Mineral Nutrition (OLD NCERT)
+133,673,Hydroponics & Aeroponics,631,33,Mineral Nutrition (OLD NCERT)
+134,674,Mineral Deficiency & Toxicity,631,149,Mineral Nutrition (OLD NCERT)
+135,675,Mineral Function,631,306,Mineral Nutrition (OLD NCERT)
+136,676,Nitrogen Nutrition in Plants,631,8,Mineral Nutrition (OLD NCERT)
+137,677,Nitrogen Fixation,631,234,Mineral Nutrition (OLD NCERT)
+138,678,Nodule formation,631,92,Mineral Nutrition (OLD NCERT)
+139,679,Genetics & Biochemistry of Nitrogen Fixation,631,27,Mineral Nutrition (OLD NCERT)
+140,680,Ammonia Assimilation & Nitrogen Export,631,40,Mineral Nutrition (OLD NCERT)
+141,681,Questions,631,1,Mineral Nutrition (OLD NCERT)
+142,682,Introduction,632,50,Photosynthesis in Higher Plants
+143,683,Historical View: Experiments,632,113,Photosynthesis in Higher Plants
+144,684,Chloroplast Structure,632,59,Photosynthesis in Higher Plants
+145,685,Photosynthetic Pigments,632,81,Photosynthesis in Higher Plants
+146,686,Redtrop Experiment,632,5,Photosynthesis in Higher Plants
+147,687,Emerson's Enhancement Experiment,632,7,Photosynthesis in Higher Plants
+148,688,Photosystems,632,85,Photosynthesis in Higher Plants
+149,689,Light Reaction: Electron Transport,632,148,Photosynthesis in Higher Plants
+150,690,Light Reaction: Photophosphorylation,632,85,Photosynthesis in Higher Plants
+151,691,Dark Reaction: Biosynthetic Phase,632,81,Photosynthesis in Higher Plants
+152,692,Dark Reaction : Calvin Cycle,632,198,Photosynthesis in Higher Plants
+153,693,Questions on Calvin Cycle,632,4,Photosynthesis in Higher Plants
+154,694,C4 Cycle (Hatch & Slack Pathway),632,256,Photosynthesis in Higher Plants
+155,695,C4 Plants Examples,632,67,Photosynthesis in Higher Plants
+156,696,Question on C4 Pathway,632,28,Photosynthesis in Higher Plants
+157,697,CAM Pathway,632,39,Photosynthesis in Higher Plants
+158,698,Photorespiration,632,123,Photosynthesis in Higher Plants
+159,699,Questions on Photorespiration,632,6,Photosynthesis in Higher Plants
+160,700,Factors Affecting Photosynthesis,632,137,Photosynthesis in Higher Plants
+161,701,Introduction,633,84,Respiration in Plants
+162,702,Glycolysis,633,309,Respiration in Plants
+163,703,Glycolysis Regulation,633,43,Respiration in Plants
+164,704,Fermentation,633,177,Respiration in Plants
+165,705,Aerobic Respiration,633,229,Respiration in Plants
+166,706,Kreb's Cycle,633,275,Respiration in Plants
+167,707,Amphibolic Nature of Respiration,633,77,Respiration in Plants
+168,708,Oxidative Phosphorylation,633,101,Respiration in Plants
+169,709,Electron Transport Inhibitors,633,12,Respiration in Plants
+170,710,Respiratory Quotient,633,95,Respiration in Plants
+171,711,Growth,634,185,Plant Growth and Development
+172,712,Growth Model,634,47,Plant Growth and Development
+173,713,Growth Terminology,634,24,Plant Growth and Development
+174,714,Development,634,72,Plant Growth and Development
+175,715,Growth Hormones & Auxin,634,304,Plant Growth and Development
+176,716,Auxin Function,634,135,Plant Growth and Development
+177,717,Gibberellin,634,197,Plant Growth and Development
+178,718,Cytokinin,634,137,Plant Growth and Development
+179,719,Ethylene,634,180,Plant Growth and Development
+180,720,Abscisic Acid,634,152,Plant Growth and Development
+181,721,Photoperiodism (OLD NCERT),634,163,Plant Growth and Development
+182,722,Vernalization (OLD NCERT),634,91,Plant Growth and Development
+183,842,Significance of Tissue Culture,715,7,Reproduction in Organisms (OLD NCERT)
+184,843,Tissue Culture,715,12,Reproduction in Organisms (OLD NCERT)
+185,844,Artificial,715,16,Reproduction in Organisms (OLD NCERT)
+186,845,Asexual Reproduction,715,298,Reproduction in Organisms (OLD NCERT)
+187,846,Reproduction,715,55,Reproduction in Organisms (OLD NCERT)
+188,847,Introduction,715,46,Reproduction in Organisms (OLD NCERT)
+189,848,Monocarpic & Polycarpic,635,9,Sexual Reproduction in Flowering Plants
+190,849,Stamen: Anther,635,156,Sexual Reproduction in Flowering Plants
+191,850,Stamen: Microsporangium,635,181,Sexual Reproduction in Flowering Plants
+192,851,Stamen: Male Gametophyte,635,313,Sexual Reproduction in Flowering Plants
+193,852,Pistil: Ovule,635,223,Sexual Reproduction in Flowering Plants
+194,853,Pistil: Female Gametophyte,635,241,Sexual Reproduction in Flowering Plants
+195,854,Pollination & Outbreeding Devices,635,497,Sexual Reproduction in Flowering Plants
+196,855,Post Pollination Events,635,63,Sexual Reproduction in Flowering Plants
+197,856,Double Fertilization,635,120,Sexual Reproduction in Flowering Plants
+198,857,Endosperm,635,103,Sexual Reproduction in Flowering Plants
+199,858,Embryo,635,91,Sexual Reproduction in Flowering Plants
+200,859,Seed,635,186,Sexual Reproduction in Flowering Plants
+201,860,Apomixis & Polyembryony,635,111,Sexual Reproduction in Flowering Plants
+202,861,Fruit,635,71,Sexual Reproduction in Flowering Plants
+203,890,Introduction to Genetics: 1,636,115,Principles of Inheritance & Variation
+204,891,Introduction to Genetics: 2,636,134,Principles of Inheritance & Variation
+205,892,Monohybrid Cross: 1,636,294,Principles of Inheritance & Variation
+206,893,Monohybrid Cross: Further Understanding,636,220,Principles of Inheritance & Variation
+207,894,Law of Segregation,636,47,Principles of Inheritance & Variation
+208,895,Dihybrid Cross Analysis,636,92,Principles of Inheritance & Variation
+209,896,Dihybrid Cross: General Consideration,636,47,Principles of Inheritance & Variation
+210,897,Dihybrid Cross: Details,636,100,Principles of Inheritance & Variation
+211,898,Dominance Deviation from Mendel: 1,636,118,Principles of Inheritance & Variation
+212,899,Dominance Deviation from Mendel: 2,636,120,Principles of Inheritance & Variation
+213,900,Epistasis,636,17,Principles of Inheritance & Variation
+214,901,Polygenic Inheritance & Pleiotropy,636,102,Principles of Inheritance & Variation
+215,902,Conclusion,636,6,Principles of Inheritance & Variation
+216,903,Sex Linked Inheritance: Introduction,636,13,Principles of Inheritance & Variation
+217,904,Sex Linked Recessive Inheritance,636,53,Principles of Inheritance & Variation
+218,905,Sex Linked Inheritance: Characteristics,636,25,Principles of Inheritance & Variation
+219,906,Chromosomal Basis of Inheritance: Introduction,636,124,Principles of Inheritance & Variation
+220,907,Chromosomal Basis of Inheritance: Further Considerations,636,70,Principles of Inheritance & Variation
+221,908,Linkage,636,47,Principles of Inheritance & Variation
+222,909,Understanding Linkage,636,56,Principles of Inheritance & Variation
+223,910,Linkage Types,636,51,Principles of Inheritance & Variation
+224,911,Recombination Gene Mapping,636,35,Principles of Inheritance & Variation
+225,912,Sex Determination,636,36,Principles of Inheritance & Variation
+226,913,Recombination & Gene Mapping,636,87,Principles of Inheritance & Variation
+227,914,Sex Determination ,636,109,Principles of Inheritance & Variation
+228,915,Sex Determination: Further Considerations,636,72,Principles of Inheritance & Variation
+229,916,Genic Balance Theory,636,7,Principles of Inheritance & Variation
+230,917,Pedigree Analysis: Basics,636,64,Principles of Inheritance & Variation
+231,918,Pedigree Analysis: Problem Solving,636,68,Principles of Inheritance & Variation
+232,919,Pedigree Analysis: More Examples,636,19,Principles of Inheritance & Variation
+233,920,Mendelian Disorders: Sickle Cell Anemia,636,109,Principles of Inheritance & Variation
+234,921,Mendelian Disorders ,636,164,Principles of Inheritance & Variation
+235,922,Mendelian Disorders: Hemophilia,636,75,Principles of Inheritance & Variation
+236,923,Mendelian Disorders: Thalassemia,636,59,Principles of Inheritance & Variation
+237,924,Additional Note on Thalassemia,636,7,Principles of Inheritance & Variation
+238,925,Non - Disjunction & Aneuploidy,636,153,Principles of Inheritance & Variation
+239,926,Sex Aneuploidy - Turner & Klinefelter Syndrome,636,109,Principles of Inheritance & Variation
+240,942,Plant Breeding & Its Steps (OLD NCERT),638,204,Strategies for Enhancement in Food Production
+241,943,Impact: Green Revolution (OLD NCERT),638,109,Strategies for Enhancement in Food Production
+242,944,Breeding  for Disease Resistance (OLD NCERT),638,182,Strategies for Enhancement in Food Production
+243,945,Insect & Pest Resistance (OLD NCERT),638,91,Strategies for Enhancement in Food Production
+244,946,Plant Breeding for Quality (OLD NCERT),638,128,Strategies for Enhancement in Food Production
+245,947,Single Cell Protein (OLD NCERT),638,47,Strategies for Enhancement in Food Production
+246,948,Plant Tissue Culture,638,217,Strategies for Enhancement in Food Production
+247,949,Animal Husbandry (OLD NCERT),638,510,Strategies for Enhancement in Food Production
+248,950,"Industrial Products, Beverages & Antibiotics",720,187,Microbes in Human Welfare
+249,951,Chemistry of Fermented Beverages,720,73,Microbes in Human Welfare
+250,952,Microbes in Household Products,720,181,Microbes in Human Welfare
+251,953,"Chemicals, Enzymes & Other Bioactive Molecules",720,294,Microbes in Human Welfare
+252,954,Microbes in Sewage Treatment,720,268,Microbes in Human Welfare
+253,955,Microbes in Production of Biogas,720,134,Microbes in Human Welfare
+254,956,Microbes in Biocontrol Agent,720,223,Microbes in Human Welfare
+255,984,Introduction to Ecology,641,108,Organisms and Populations
+256,985,Introduction to the Chapter,641,88,Organisms and Populations
+257,986,Abiotic Factors: Temperature (OLD NCERT),641,80,Organisms and Populations
+258,987,Abiotic Factors: Light & Water (OLD NCERT),641,88,Organisms and Populations
+259,988,Response of Organisms to Abiotic Factors (OLD NCERT),641,206,Organisms and Populations
+260,989,Adaptations (OLD NCERT),641,144,Organisms and Populations
+261,990,Population Characters: Density,641,69,Organisms and Populations
+262,991,Population Characters: Natality & Mortality,641,43,Organisms and Populations
+263,992,Population Characters: Age Structure & Migration,641,49,Organisms and Populations
+264,993,Population Dynamic,641,61,Organisms and Populations
+265,994,Population: Exponential Growth Model,641,92,Organisms and Populations
+266,995,Population: Logistic Growth Model,641,104,Organisms and Populations
+267,996,Life History Variations,641,33,Organisms and Populations
+268,997,Population Interactions: Competition,641,204,Organisms and Populations
+269,998,Population Interactions: Predation,641,204,Organisms and Populations
+270,999,Population Interactions: Parasitism,641,132,Organisms and Populations
+271,1000,Population Interactions: Amensalism,641,44,Organisms and Populations
+272,1001,"Population Interactions: Commensalism, Protocooperation & Mutualism",641,204,Organisms and Populations
+273,1002,Population Interactions: Coevolution,641,21,Organisms and Populations
+274,1003,Introduction,642,78,Ecosystem
+275,1004,Components & Types of Ecosystems,642,117,Ecosystem
+276,1005,Ecosystem Productivity,642,215,Ecosystem
+277,1006,Ecological Efficiencies,642,11,Ecosystem
+278,1007,Energy Flow,642,305,Ecosystem
+279,1008,Ecological Flow,642,38,Ecosystem
+280,1009,Ecological Pyramids,642,200,Ecosystem
+281,1010,Decomposition,642,169,Ecosystem
+282,1011,Mineral Cycling & Ecosystem Services (OLD NCERT),642,218,Ecosystem
+283,1012,Community Character,642,14,Ecosystem
+284,1013,Ecological Succession (OLD NCERT),642,273,Ecosystem
+285,1014,Introduction & Types,642,111,Biodiversity and Conservation
+286,1015,Magnitude of Biodiversity,643,174,Biodiversity and Conservation
+287,1016,Biodiversity Patterns,643,243,Biodiversity and Conservation
+288,1017,Importance of Biodiversity,643,123,Biodiversity and Conservation
+289,1018,Loss of Biodiversity,643,434,Biodiversity and Conservation
+290,1019,In Situ Conservation of Biodiversity,643,289,Biodiversity and Conservation
+291,1020,Ex Situ Conservation of Biodiversity,643,193,Biodiversity and Conservation
+292,1021,Introduction to Pollution & Types,644,55,Environmental Issues (OLD NCERT)
+293,1022,Air Pollution,644,335,Environmental Issues (OLD NCERT)
+294,1023,Water Pollution: I,644,184,Environmental Issues (OLD NCERT)
+295,1024,Water Pollution: II,644,57,Environmental Issues (OLD NCERT)
+296,1025,Solid Waste Pollution,644,84,Environmental Issues (OLD NCERT)
+297,1026,Agrochemical & Radioactive Waste,644,90,Environmental Issues (OLD NCERT)
+298,1027,Green House Effect & Global Warming,644,189,Environmental Issues (OLD NCERT)
+299,1028,Ozone Layer Depletion,644,230,Environmental Issues (OLD NCERT)
+300,1029,Resource Utilisation & Maintenance,644,147,Environmental Issues (OLD NCERT)
+301,1057,Pteridophytes,624,221,Plant Kingdom
+302,1062,The DNA,637,248,Molecular Basis of Inheritance
+303,1063,DNA Double Helix,637,276,Molecular Basis of Inheritance
+304,1064,Search for Genetic Material:I,637,42,Molecular Basis of Inheritance
+305,1065,Search for Genetic Material: II,637,50,Molecular Basis of Inheritance
+306,1066,DNA vs RNA as Genetic Material,637,136,Molecular Basis of Inheritance
+307,1067,DNA Replication: I,637,101,Molecular Basis of Inheritance
+308,1068,DNA Replication: II,637,61,Molecular Basis of Inheritance
+309,1069,DNA Replication:III,637,55,Molecular Basis of Inheritance
+310,1070,DNA Packaging,637,145,Molecular Basis of Inheritance
+311,1071,Solved Problems,637,4,Molecular Basis of Inheritance
+312,1072,Transcription: I,637,95,Molecular Basis of Inheritance
+313,1073,Transcription:II,637,86,Molecular Basis of Inheritance
+314,1074,Transcription: III,637,66,Molecular Basis of Inheritance
+315,1075,Transcription: IV,637,80,Molecular Basis of Inheritance
+316,1076,Genetic Code: I,637,62,Molecular Basis of Inheritance
+317,1077,Genetic Code: II,637,41,Molecular Basis of Inheritance
+318,1078,Genetic Code: III,637,50,Molecular Basis of Inheritance
+319,1079,Translation,637,266,Molecular Basis of Inheritance
+320,1080,Translation Mechanism,637,65,Molecular Basis of Inheritance
+321,1081,Gene Regulation: Introduction,637,45,Molecular Basis of Inheritance
+322,1082,Gene Regulation: Lac Operon,637,275,Molecular Basis of Inheritance
+323,1083,Gene Regulation in Eukaryotes,637,27,Molecular Basis of Inheritance
+324,1084,Human Genome Project,637,195,Molecular Basis of Inheritance
+325,1085,DNA Fingerprinting,637,254,Molecular Basis of Inheritance
+326,1130,Nitrogen Metabolism: 1,631,94,Mineral Nutrition (OLD NCERT)
+327,1131,Nitrogen Metabolism:2,631,50,Mineral Nutrition (OLD NCERT)
+328,1132,Differentiation,634,48,Plant Growth and Development
+329,1133,Plant Water Relations: Water Potential: 2,630,11,Transport in Plants (OLD NCERT)
+330,1134,Stomata: 1,630,13,Transport in Plants (OLD NCERT)
+331,1135,Stomata: 2,630,6,Transport in Plants (OLD NCERT)
+332,1136,Stomata: 3,630,24,Transport in Plants (OLD NCERT)
+333,1163,Protozoa,623,97,Biological Classification
+334,1196,Microbes as Biofertilizer,720,160,Microbes in Human Welfare
+335,1229,Classification of Nutrients,631,101,Mineral Nutrition (OLD NCERT)
+336,1230,ETS:2,633,88,Respiration in Plants
+337,1231,Means of Transport: Active,630,70,Transport in Plants (OLD NCERT)
+338,1232,Plant Water Relations: Water Potential: DPD,630,47,Transport in Plants (OLD NCERT)
+339,1233,Light Reactions :1,632,63,Photosynthesis in Higher Plants
+340,1234,Light Reactions :2,632,37,Photosynthesis in Higher Plants
+341,1235,Nitrogen Metabolism:3,632,1,Photosynthesis in Higher Plants
+342,1236,Light Reactions :3,632,68,Photosynthesis in Higher Plants
+343,1237,Transpiration Pull: Illustration,630,64,Transport in Plants (OLD NCERT)
+344,1238,ETS:1,633,115,Respiration in Plants
+345,1239,Plant Water Relations: Reverse Osmosis & Water potential: 1,630,15,Transport in Plants (OLD NCERT)
+346,1262,Plant Water Relations: Plasmolysis,630,27,Transport in Plants (OLD NCERT)
+347,1263,Pigments,632,59,Photosynthesis in Higher Plants
+348,1264,Means of Transport: Passive,630,57,Transport in Plants (OLD NCERT)
+349,1265,Types of Wood (OLD NCERT),626,81,Anatomy of Flowering Plants
+350,1460,Ribosome and Inclusion Bodies,627,152,Cell - The Unit of Life
+351,1461,Endomembrane System (Lysosomes),627,17,Cell - The Unit of Life
+352,1463,Endomembrane System (Endoplasmic Reticulum),627,95,Cell - The Unit of Life
+353,1625,Seed Dormancy (OLD NCERT),634,67,Plant Growth and Development
+354,1658,Somatic Hybridization,715,3,Reproduction in Organisms (OLD NCERT)
+355,1659,Sexual Reproduction,715,238,Reproduction in Organisms (OLD NCERT)
+356,1660,Events during Sexual reproduction,715,219,Reproduction in Organisms (OLD NCERT)
+357,1691,Lichens,623,65,Biological Classification
+358,1724,Pathways of transport,630,50,Transport in Plants (OLD NCERT)
+359,1725,Pathways of Transport: Illustration,630,5,Transport in Plants (OLD NCERT)
+360,1726,Photosynthesis Transpiration Compromise & Mineral Translocation,630,76,Transport in Plants (OLD NCERT)
+361,1955,Mechanism of Absorption of Elements,631,20,Mineral Nutrition (OLD NCERT)
+362,2087,Mutation,636,57,Principles of Inheritance & Variation
+363,2132,Chlorophyceae: Green Algae,624,98,Plant Kingdom
+364,2135,Classification of Pteridophytes,624,17,Plant Kingdom
+365,2137,Classification System,624,117,Plant Kingdom
+366,2144,DNA Replication,637,294,Molecular Basis of Inheritance
+367,2149,ETS,633,282,Respiration in Plants
+368,2153,Families of Flowering Plant,625,284,Morphology of Flowering Plants
+369,2157,Flower & Parts of Flower,625,500,Morphology of Flowering Plants
+370,2160,Gymnosperms,624,246,Plant Kingdom
+371,2161,Genetic Code,637,221,Molecular Basis of Inheritance
+372,2182,Light Reactions ,632,99,Photosynthesis in Higher Plants
+373,2185,Nitrogen metabolism,631,108,Mineral Nutrition (OLD NCERT)
+374,2186,Nitrogen Metabolism,631,73,Mineral Nutrition (OLD NCERT)
+375,2187,Nitrogen Metabolism,632,0,Photosynthesis in Higher Plants
+376,2194,Plant Water Relations: Reverse Osmosis & Water Potential,630,19,Transport in Plants (OLD NCERT)
+377,2198,Search for Genetic Material,637,161,Molecular Basis of Inheritance
+378,2205,Stomata,630,85,Transport in Plants (OLD NCERT)
+379,2212,Transcription,637,500,Molecular Basis of Inheritance
+380,2216,Water Pollution,644,392,Environmental Issues (OLD NCERT)
+381,2318,Age Pyramid,641,29,Organisms and Populations
+382,2384,Taxonomical Aids (OLD NCERT),622,182,The Living World
+383,2417,Pollen - Pistil Interaction,635,55,Sexual Reproduction in Flowering Plants
+384,2450,Population Attributes,641,59,Organisms and Populations
+385,2483,Facilitated Diffusion,630,50,Transport in Plants (OLD NCERT)
+386,2516,Introduction to Water Absorption,630,5,Transport in Plants (OLD NCERT)
+387,2781,Chemiosmotic hypothesis,632,90,Photosynthesis in Higher Plants
+388,3110, Modifications of Stem,625,80,Morphology of Flowering Plants
+389,3143,Long Distance Transport of Water,630,36,Transport in Plants (OLD NCERT)
+390,3209,Diversity in the Living World,622,40,The Living World
+391,3242, FLOWER – A FASCINATING ORGAN OF ANGIOSPERMS,635,16,Sexual Reproduction in Flowering Plants
+392,3275,Mutations and Genetic Code,637,37,Molecular Basis of Inheritance
+393,3276, Biodiversity Conservation,643,42,Biodiversity and Conservation
+394,3440,SOIL AS RESERVOIR OF ESSENTIAL ELEMENTS,631,8,Mineral Nutrition (OLD NCERT)
+395,3441, WHERE ARE THE ATP AND NADPH USED,632,17,Photosynthesis in Higher Plants
+396,3473,THE RESPIRATORY BALANCE SHEET,633,25,Respiration in Plants
+397,3506,Co-dominance,636,38,Principles of Inheritance & Variation
+398,3507,SUMMARY,636,2,Principles of Inheritance & Variation
+399,3539,Kingdom: Plantae,623,9,Biological Classification
+400,3572,Kingdom Fungi: Phycomycetes,623,16,Biological Classification
+401,3638,The Pressure Flow or Mass Flow Hypothesis,630,5,Transport in Plants (OLD NCERT)
+402,3671,Animal Kingdom,623,2,Biological Classification
+403,3737,Ecosystem Services,642,5,Ecosystem
+404,3770,Deforestation,644,3,Environmental Issues (OLD NCERT)
+405,3771,Abiotic Factors: soil,641,9,Organisms and Populations
+406,3803,Families of Flowering Plants: Solanaceae,625,1,Morphology of Flowering Plants
+407,3836,Uptake and Transport of Mineral Nutrients,630,2,Transport in Plants (OLD NCERT)

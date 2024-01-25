@@ -1,5 +1,5 @@
 ECHO "Starting Backend"
-cd Backend
 source venv/bin/activate
+cd ./Backend
 python3 app.py
 cd ..

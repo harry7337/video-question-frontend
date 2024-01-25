@@ -19,6 +19,8 @@ const RecommendedSong = (props) => {
         
     }
 
+    console.log(tasks)
+
     if(!tasks){
         return <>
         <div className='Spinner-container'>

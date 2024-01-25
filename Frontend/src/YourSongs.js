@@ -41,8 +41,8 @@ function YourSongs() {
     const {data} = await axios.post(
       'http://127.0.0.1:6001/validate',
       {
-        name:SongInput,
-        year:YearInput
+        name:SongInput
+        // ,year:YearInput
       }
     );
     setLoading(false)
@@ -96,9 +96,6 @@ function YourSongs() {
 
   return (
     <div className="App">
-
-        
-
         {Loading?
         <div className='Spinner-container'>
               <Button variant="dark" disabled>
@@ -112,7 +109,7 @@ function YourSongs() {
                Loading
               </Button>
         </div>
-      :(<><Form SongInput={SongInput} YearInput={YearInput} handleSongChange={handleSongChange} handleYearChange={handleYearChange} handleSubmit={handleSubmit} />
+      :(<><Form SongInput={SongInput} handleSongChange={handleSongChange} handleSubmit={handleSubmit} />
       <Todo getRecommendations={getRecommendations} tasks={tasks} handleComplete={handleComplete} handleRemove={handleRemove} handleRemoveAll={handleRemoveAll} /></>)}
       <ToastContainer />
     </div>
