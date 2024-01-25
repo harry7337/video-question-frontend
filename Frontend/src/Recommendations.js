@@ -24,12 +24,12 @@ import 'react-toastify/dist/ReactToastify.css';
   const refreshRecommendations = async (e)=> {
     const startingData = JSON.parse(localStorage.getItem("songs"))["data"]
 
-    const {data} = await axios.post(
-        'http://35.160.120.126/prediction',
-        {
-          song_list: startingData
-        }
-      );
+    const { data } = await axios.post(
+      "https://video-question-backend-production.up.railway.app/prediction",
+      {
+        song_list: startingData,
+      }
+    );
 
       for( var i =0 ;i<data.data.length;i++){
         data.data[i]["completed"]=false
