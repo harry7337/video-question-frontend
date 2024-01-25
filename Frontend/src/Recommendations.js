@@ -25,7 +25,7 @@ import 'react-toastify/dist/ReactToastify.css';
     const startingData = JSON.parse(localStorage.getItem("songs"))["data"]
 
     const { data } = await axios.post(
-      "http://video-question-backend-production.up.railway.app/prediction",
+      "https://video-question-backend-production.up.railway.app/prediction",
       {
         song_list: startingData,
       }
