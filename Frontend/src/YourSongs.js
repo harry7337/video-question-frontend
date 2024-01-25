@@ -39,7 +39,7 @@ function YourSongs() {
     e.preventDefault()
     setLoading(true)
     const {data} = await axios.post(
-      'http://127.0.0.1:6001/validate',
+      'http://35.160.120.126/validate',
       {
         name:SongInput
         // ,year:YearInput
