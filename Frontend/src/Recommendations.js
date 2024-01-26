@@ -7,6 +7,7 @@ import { Button, Spinner } from 'react-bootstrap';
 
 import 'react-toastify/dist/ReactToastify.css';
 
+
  function YourSongs() {
 
     useEffect(()=>{
@@ -22,23 +23,19 @@ import 'react-toastify/dist/ReactToastify.css';
   }
 
   const refreshRecommendations = async (e)=> {
-    const startingData = JSON.parse(localStorage.getItem("songs"))["data"]
+    const startingData = JSON.parse(localStorage.getItem("songs"))["data"];
+    // "https://video-question-backend-production.up.railway.app:6001/prediction"
+    const { data } = await axios.post(`${process.env.BACKEND_URL}/prediction`, {
+      song_list: startingData,
+    });
 
-    const { data } = await axios.post(
-      "https://video-question-backend-production.up.railway.app/prediction",
-      {
-        song_list: startingData,
-      }
-    );
+    for (var i = 0; i < data.data.length; i++) {
+      data.data[i]["completed"] = false;
+    }
 
-      for( var i =0 ;i<data.data.length;i++){
-        data.data[i]["completed"]=false
-      }
-  
-      updateLocalStorage(data.data);
+    updateLocalStorage(data.data);
 
-      setRecommended(data.data)
-
+    setRecommended(data.data);
   }
   
 

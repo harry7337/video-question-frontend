@@ -36,33 +36,30 @@ function YourSongs() {
   }
 
   const handleSubmit = async (e) => {
-    e.preventDefault()
-    setLoading(true)
-    const { data } = await axios.post(
-      "https://video-question-backend-production.up.railway.app/validate",
-      {
-        name: SongInput,
-        // ,year:YearInput
-      }
-    );
-    setLoading(false)
+    e.preventDefault();
+    setLoading(true);
+    // "https://video-question-backend-production.up.railway.app:6001/validate"
+    const { data } = await axios.post(`${process.env.BACKEND_URL}/validate`, {
+      name: SongInput,
+      // ,year:YearInput
+    });
+    setLoading(false);
 
-    if (SongInput !== '' && data.isvalid) {
-      const date = new Date().toLocaleDateString()
+    if (SongInput !== "" && data.isvalid) {
+      const date = new Date().toLocaleDateString();
       const newTask = {
         date: date,
         name: SongInput,
         completed: false,
-        year: parseInt(YearInput)
-      }
+        year: parseInt(YearInput),
+      };
 
-      setTasks([...tasks, newTask])
-      setYearInput('')
-      setSongInput('')
-      updateLocalStorage([...tasks,newTask]);
-    }
-    else{
-      toast.error("No such song found :(")
+      setTasks([...tasks, newTask]);
+      setYearInput("");
+      setSongInput("");
+      updateLocalStorage([...tasks, newTask]);
+    } else {
+      toast.error("No such song found :(");
       console.log("sjchv");
     }
   }
