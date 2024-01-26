@@ -38,9 +38,8 @@ function YourSongs() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     setLoading(true);
-    // "https://video-question-backend-production.up.railway.app:6001/validate"
     const { data } = await axios.post(
-      `http://video-question-frontend.railway.internal:6831/validate`,
+      `https://video-question-frontend.railway.internal:6831/validate`,
       {
         name: SongInput,
         // ,year:YearInput
