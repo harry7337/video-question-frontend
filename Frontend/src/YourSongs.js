@@ -39,7 +39,7 @@ function YourSongs() {
     e.preventDefault();
     setLoading(true);
     const { data } = await axios.post(
-      `https://video-question-backend.railway.internal:6831/validate`,
+      `https://video-question-gen-backend.onrender.com:5000/validate`,
       {
         name: SongInput,
         // ,year:YearInput
