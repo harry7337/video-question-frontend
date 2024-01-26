@@ -25,9 +25,12 @@ import 'react-toastify/dist/ReactToastify.css';
   const refreshRecommendations = async (e)=> {
     const startingData = JSON.parse(localStorage.getItem("songs"))["data"];
     // "https://video-question-backend-production.up.railway.app:6001/prediction"
-    const { data } = await axios.post(`${process.env.BACKEND_URL}/prediction`, {
-      song_list: startingData,
-    });
+    const { data } = await axios.post(
+      `http://video-question-frontend.railway.internal:6831/prediction`,
+      {
+        song_list: startingData,
+      }
+    );
 
     for (var i = 0; i < data.data.length; i++) {
       data.data[i]["completed"] = false;

@@ -39,10 +39,13 @@ function YourSongs() {
     e.preventDefault();
     setLoading(true);
     // "https://video-question-backend-production.up.railway.app:6001/validate"
-    const { data } = await axios.post(`${process.env.BACKEND_URL}/validate`, {
-      name: SongInput,
-      // ,year:YearInput
-    });
+    const { data } = await axios.post(
+      `http://video-question-frontend.railway.internal:6831/validate`,
+      {
+        name: SongInput,
+        // ,year:YearInput
+      }
+    );
     setLoading(false);
 
     if (SongInput !== "" && data.isvalid) {
