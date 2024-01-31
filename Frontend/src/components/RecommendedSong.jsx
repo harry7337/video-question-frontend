@@ -39,26 +39,41 @@ const RecommendedSong = (props) => {
     }
 
     return (
-        <>
-        <h5 className='text-center your-recommendations-title'><i className="fa-solid fa-music"></i> Recommendations</h5>
-        <ul className='todo'>
-            { tasks && tasks
-                .map((task, index) =>
-                   
-                    <li key={index}>
-                        <div className='checkAndTask'>
-                            <label className='checkContainer'>
-                                <input type="checkbox" checked={task.completed} onChange={() => handleComplete(index)} />
-                                <span className="checkmark"></span>
-                            </label>
-                            <a target="_blank" href={"https://www.youtube.com/results?search_query="+encodeURIComponent(task.name+" "+"By "+getFirstArtistFromList(task)+" "+task.year)}><span>{task.name}  <span className='artist'>{getFirstArtistFromList(task)}</span></span></a>
-                        </div>
-                        <button onClick={() => handleRemove(index)}><i className="fa-solid fa-trash-can"></i></button>
-                    </li>
-                )}
-            {tasks && tasks.length > 1 && <p><button className='deleteAll' onClick={() => handleRemoveAll()}><i className="fa-solid red fa-eraser"></i>Delete all</button></p>}
+      <>
+        <h5 className="text-center your-recommendations-title">
+          <i className="fa-solid fa-music"></i> Recommendations
+        </h5>
+        <ul className="todo">
+          {tasks &&
+            tasks.map((task, index) => (
+              <li key={index}>
+                <div className="checkAndTask">
+                  <label className="checkContainer">
+                    <input
+                      type="checkbox"
+                      checked={task.completed}
+                      onChange={() => handleComplete(index)}
+                    />
+                    <span className="checkmark"></span>
+                  </label>
+                  
+                <span dangerouslySetInnerHTML={{ __html: task.name }}/>
+                  
+                </div>
+                <button onClick={() => handleRemove(index)}>
+                  <i className="fa-solid fa-trash-can"></i>
+                </button>
+              </li>
+            ))}
+          {tasks && tasks.length > 1 && (
+            <p>
+              <button className="deleteAll" onClick={() => handleRemoveAll()}>
+                <i className="fa-solid red fa-eraser"></i>Delete all
+              </button>
+            </p>
+          )}
         </ul>
-        </>
+      </>
     );
 }
 
