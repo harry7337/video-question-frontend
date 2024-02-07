@@ -30,9 +30,13 @@ import 'react-toastify/dist/ReactToastify.css';
 
      const startingData = JSON.parse(localStorage.getItem("songs"))["data"];
      try {
-
+      console.log(
+        "ENV VAR in recommendations.js",
+        process.env.REACT_APP_BACKEND_API_URL
+      );
        const { data } = await axios.post(
-         "http://127.0.0.1:5000/prediction",
+         process.env.REACT_APP_BACKEND_API_URL + "/prediction",
+         //  "http://127.0.0.1:5000/prediction",
          {
            song_list: startingData,
          }
