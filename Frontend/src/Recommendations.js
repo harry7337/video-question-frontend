@@ -32,7 +32,7 @@ import 'react-toastify/dist/ReactToastify.css';
      try {
 
        const { data } = await axios.post(
-         "https://video-question-gen-backend.onrender.com/prediction",
+         "http://127.0.0.1:5000/prediction",
          {
            song_list: startingData,
          }

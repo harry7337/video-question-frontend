@@ -39,7 +39,7 @@ function YourSongs() {
     e.preventDefault();
     setLoading(true);
     const { data } = await axios.post(
-      `https://video-question-gen-backend.onrender.com/validate`,
+      `http://127.0.0.1:5000/validate`,
       {
         name: SongInput,
         // ,year:YearInput
