@@ -2,10 +2,14 @@ import React, { useState, useEffect } from 'react';
 import RecommendedSong from './components/RecommendedSong';
 import './App.css';
 import axios from 'axios';
+import { CancelToken } from 'axios';
 import {toast, ToastContainer} from 'react-toastify';
 import { Button, Spinner } from 'react-bootstrap';
 
 import 'react-toastify/dist/ReactToastify.css';
+
+const POST_REQ_TIMEOUT = 60000;
+
 
  function YourSongs() {
    const [loading, setLoading] = useState(true); // Added loading state
@@ -34,12 +38,17 @@ import 'react-toastify/dist/ReactToastify.css';
         "ENV VAR in recommendations.js",
         process.env.REACT_APP_BACKEND_API_URL
       );
+      const source = CancelToken.source();
+      const timeout = setTimeout(() => {
+        source.cancel();
+        // Timeout Logic
+      }, POST_REQ_TIMEOUT);
        const { data } = await axios.post(
          process.env.REACT_APP_BACKEND_API_URL + "/prediction",
-         //  "http://127.0.0.1:5000/prediction",
          {
            song_list: startingData,
-         }
+         },
+         { cancelToken: source.token }
        );
 
        for (var i = 0; i < data.data.length; i++) {
@@ -49,6 +58,7 @@ import 'react-toastify/dist/ReactToastify.css';
        updateLocalStorage(data.data);
 
        setRecommended(data.data);
+       clearTimeout(timeout);
      } catch (error) {
        console.error("Error fetching recommendations:", error);
        setError("Error fetching recommendations"); // Set error state with the error message

@@ -41,10 +41,8 @@ function YourSongs() {
     console.log("ENV VAR in songs.js", process.env.REACT_APP_BACKEND_API_URL);
     const { data } = await axios.post(
       process.env.REACT_APP_BACKEND_API_URL + "/validate",
-      // `http://127.0.0.1:5000/validate`,
       {
         name: SongInput,
-        // ,year:YearInput
       }
     );
     setLoading(false);
