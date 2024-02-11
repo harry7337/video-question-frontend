@@ -8,8 +8,8 @@ import { Button, Spinner } from 'react-bootstrap';
 
 import 'react-toastify/dist/ReactToastify.css';
 
-const POST_REQ_TIMEOUT = 60000;
-
+const POST_REQ_TIMEOUT = process.env.REACT_APP_TIMEOUT;
+console.log("TIMEOUT SET AT:",POST_REQ_TIMEOUT);
 
  function YourSongs() {
    const [loading, setLoading] = useState(true); // Added loading state
