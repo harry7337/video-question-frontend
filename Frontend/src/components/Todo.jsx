@@ -12,7 +12,7 @@ const Todo = (props) => {
                 .map((task, index) =>
                     <li key={index}>
                         <div className='checkAndTask'>
-                            <span>{task.name}  <span className='artist'>{task.year}</span></span>
+                            <span>{task.name}</span>
                         </div>
                         <button onClick={() => handleRemove(index)}><i className="fa-solid fa-trash-can"></i></button>
                     </li>

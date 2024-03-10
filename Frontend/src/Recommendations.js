@@ -2,8 +2,8 @@ import React, { useState, useEffect } from 'react';
 import RecommendedSong from './components/RecommendedSong';
 import './App.css';
 import axios from 'axios';
-import { CancelToken } from 'axios';
-import {toast, ToastContainer} from 'react-toastify';
+import { CancelToken } from "axios";
+import { toast, ToastContainer } from "react-toastify";
 import { Button, Spinner } from 'react-bootstrap';
 
 import 'react-toastify/dist/ReactToastify.css';
@@ -50,7 +50,7 @@ console.log("TIMEOUT SET AT:",POST_REQ_TIMEOUT);
          },
          { cancelToken: source.token }
        );
-
+      console.log(data);
        for (var i = 0; i < data.data.length; i++) {
          data.data[i]["completed"] = false;
        }
@@ -58,6 +58,8 @@ console.log("TIMEOUT SET AT:",POST_REQ_TIMEOUT);
        updateLocalStorage(data.data);
 
        setRecommended(data.data);
+       setSubtopics(data.subtopics);
+       setTopics(data.topics);
        clearTimeout(timeout);
      } catch (error) {
        console.error("Error fetching recommendations:", error);
@@ -68,6 +70,8 @@ console.log("TIMEOUT SET AT:",POST_REQ_TIMEOUT);
    };
 
    const [Recommended, setRecommended] = useState(null);
+   const [Subtopics, setSubtopics] = useState(null);
+   const [Topics, setTopics] = useState(null);
    const handleComplete = (index) => {
      const newTasks = [...Recommended];
      if (newTasks[index].completed === false) {
@@ -133,6 +137,8 @@ console.log("TIMEOUT SET AT:",POST_REQ_TIMEOUT);
      <div className="App">
        <RecommendedSong
          tasks={Recommended}
+         subtopics={Subtopics}
+         topics={Topics}
          handleComplete={handleComplete}
          handleRemove={handleRemove}
          handleRemoveAll={handleRemoveAll}

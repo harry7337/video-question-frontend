@@ -130,6 +130,19 @@ i {
 
 .your-recommendations-title{
   margin-top: 2vw;
+  font-weight: bold;
+  color: rgb(255, 252, 252) !important;
+}
+
+
+.subtopics-header{
+  margin-top: 2vw;
+  font-weight: normal;
+  color: rgb(255, 252, 252) !important;
+}
+
+.topic-list-items{
+  margin-top: 2vw;
   font-weight: lighter;
   color: rgb(255, 252, 252) !important;
 }

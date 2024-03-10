@@ -4,22 +4,8 @@ import { Button, Spinner } from 'react-bootstrap';
 
 const RecommendedSong = (props) => {
 
-    const {  tasks, handleComplete, handleRemove, handleRemoveAll } = props
+    const {  tasks,subtopics,topics, handleComplete, handleRemove, handleRemoveAll } = props
 
-    
-
-    const getFirstArtistFromList= (str)=> {
-        try{
-            return JSON.parse(str.artists.replace("\"","").replace(/'/g, '"'))[0]+", "+str.year
-        }
-        catch(e){
-            console.log(str.year)
-            return str.year
-        }
-        
-    }
-
-    console.log(tasks)
 
     if(!tasks){
         return <>
@@ -37,12 +23,29 @@ const RecommendedSong = (props) => {
     </div>
          </>
     }
+    
 
     return (
       <>
         <h5 className="text-center your-recommendations-title">
           <i className="fa-solid fa-music"></i> Recommendations
         </h5>
+        <div>
+          <h6 className="text-center subtopics-header">
+            Topics detected:
+            {topics &&
+              topics.map((topic, index) => (
+                <li className="topic-list-items">{topic}</li>
+              ))}
+          </h6>
+          <h6 className="text-center subtopics-header">
+            Subtopics detected:
+            {subtopics &&
+              subtopics.map((subtopic, index) => (
+                <li className="topic-list-items">{subtopic}</li>
+              ))}
+          </h6>
+        </div>
         <ul className="todo">
           {tasks &&
             tasks.map((task, index) => (
@@ -56,9 +59,8 @@ const RecommendedSong = (props) => {
                     />
                     <span className="checkmark"></span>
                   </label>
-                  
-                <span dangerouslySetInnerHTML={{ __html: task.name }}/>
-                  
+
+                  <span dangerouslySetInnerHTML={{ __html: task.name }} />
                 </div>
                 <button onClick={() => handleRemove(index)}>
                   <i className="fa-solid fa-trash-can"></i>
