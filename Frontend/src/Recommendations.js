@@ -34,15 +34,16 @@ console.log("TIMEOUT SET AT:",POST_REQ_TIMEOUT);
 
      const startingData = JSON.parse(localStorage.getItem("songs"))["data"];
      try {
-      console.log(
-        "ENV VAR in recommendations.js",
-        process.env.REACT_APP_BACKEND_API_URL
-      );
-      const source = CancelToken.source();
-      const timeout = setTimeout(() => {
-        source.cancel();
-        // Timeout Logic
-      }, POST_REQ_TIMEOUT);
+       console.log(
+         "ENV VAR in recommendations.js",
+         process.env.REACT_APP_BACKEND_API_URL
+       );
+       const source = CancelToken.source();
+       const timeout = setTimeout(() => {
+         source.cancel();
+         // Timeout Logic
+       }, POST_REQ_TIMEOUT);
+
        const { data } = await axios.post(
          process.env.REACT_APP_BACKEND_API_URL + "/prediction",
          {
@@ -50,13 +51,12 @@ console.log("TIMEOUT SET AT:",POST_REQ_TIMEOUT);
          },
          { cancelToken: source.token }
        );
-      console.log(data);
        for (var i = 0; i < data.data.length; i++) {
          data.data[i]["completed"] = false;
        }
 
        updateLocalStorage(data.data);
-
+       setSubject(data.subject);
        setRecommended(data.data);
        setSubtopics(data.subtopics);
        setTopics(data.topics);
@@ -72,6 +72,7 @@ console.log("TIMEOUT SET AT:",POST_REQ_TIMEOUT);
    const [Recommended, setRecommended] = useState(null);
    const [Subtopics, setSubtopics] = useState(null);
    const [Topics, setTopics] = useState(null);
+   const [Subject, setSubject] = useState(null);
    const handleComplete = (index) => {
      const newTasks = [...Recommended];
      if (newTasks[index].completed === false) {
@@ -139,6 +140,7 @@ console.log("TIMEOUT SET AT:",POST_REQ_TIMEOUT);
          tasks={Recommended}
          subtopics={Subtopics}
          topics={Topics}
+         subject={Subject}
          handleComplete={handleComplete}
          handleRemove={handleRemove}
          handleRemoveAll={handleRemoveAll}

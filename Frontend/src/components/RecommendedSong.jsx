@@ -4,7 +4,7 @@ import { Button, Spinner } from 'react-bootstrap';
 
 const RecommendedSong = (props) => {
 
-    const {  tasks,subtopics,topics, handleComplete, handleRemove, handleRemoveAll } = props
+    const {  tasks,subtopics,topics,subject, handleComplete, handleRemove, handleRemoveAll } = props
 
 
     if(!tasks){
@@ -31,6 +31,9 @@ const RecommendedSong = (props) => {
           <i className="fa-solid fa-music"></i> Recommendations
         </h5>
         <div>
+          <h6 className="text-center subtopics-header">
+            Subject Detected:{subject}
+          </h6>
           <h6 className="text-center subtopics-header">
             Topics detected:
             {topics &&
